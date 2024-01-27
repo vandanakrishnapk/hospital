@@ -1,0 +1,16 @@
+২২ সেপ্টেঃ, ২০২২ — I need to set the text color for each row in a striped table. ... How to change background color of table cell while using Bootstrap's CSS classes ...
+১টি উত্তর
+ 
+·
+ 
+সেরা উত্তর: 
+You can overwrite --bs-table-striped-color css variable like this: <table class="table table-striped" style="color: red; --bs-table-striped-color: red;">
+Change table header color using bootstrap
+২৯ মে, ২০১৪
+Use table row coloring for cells in Bootstrap
+২৬ মে, ২০১৩
+How to customize bootstrap colors in a table
+২০ জানু, ২০২২
+How to change bootstrap-vue table text color
+১৬ ডিসেঃ, ২০১৯
+stackoverflow.com থেকে আরও ফলাফ
